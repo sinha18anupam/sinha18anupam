@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sinha18anupam
-- 👀 I’m interested in web developmen
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on React projects
 
